@@ -1,0 +1,48 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/index/index",
+    "pages/my",
+    "pages/my/my",
+    "pages/time/time",
+    "pages/task/task"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#3399FF",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "tabBar": {
+    "color": "#999",
+    "selectedColor": "#000000",
+    "backgroundColor": "#fafafa",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "icon/index-o.png",
+        "selectedIconPath": "icon/index.png"
+      },
+      {
+        "pagePath": "pages/task/task",
+        "text": "任务",
+        "iconPath": "icon/task-o.png",
+        "selectedIconPath": "icon/task.png"
+      },
+      {
+        "pagePath": "pages/time/time",
+        "text": "时间线",
+        "iconPath": "icon/time-o.png",
+        "selectedIconPath": "icon/time.png"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "我的",
+        "iconPath": "icon/more-o.png",
+        "selectedIconPath": "icon/more.png"
+      }
+    ]
+  }
+}

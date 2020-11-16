@@ -1,0 +1,29 @@
+.login{
+      width:100%;
+      min-height: 100%;
+      position: absolute;
+      left: 0;
+      top: 0;
+      background-color:#3399FF;
+      /* display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: spa; */
+}
+
+.title{
+  position: absolute;
+  top:390rpx;
+  left: 235rpx;
+  color:#fff;
+  font-size: 75rpx;
+}
+
+.content{
+  position: absolute;
+  color:#fff;
+  top:510rpx;
+  left: 215rpx;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}

@@ -1,0 +1,8 @@
+<view class="login">
+  <view class="title">
+    One List
+  </view>
+  <view class="content">
+    最重要的事情只有一件
+  </view>
+</view>
